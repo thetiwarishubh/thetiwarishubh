@@ -1,2 +1,2 @@
-const practice = "Hello world"
+const practice = "Hello world";
 console.log(practice);
