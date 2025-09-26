@@ -1,2 +1,3 @@
-const practice = "Hello world";
-console.log(practice);
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thetiwarishubh"/>
+</div>
